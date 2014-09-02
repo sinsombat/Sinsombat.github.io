@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>เพ้อเจ้อ</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Lost Star</title>
+				<description>&lt;pre&gt;Lost Star
+
+Please, don't see 
+Just a boy caught up in dreams And fantasies
+Please, see me
+Reaching out for someone I can't see
+Take my hand Let's see where we wake up tomorrow
+Best laid plans Sometimes are just a one night stand
+I'll be damned Cupid's demanding back it's arrow
+So let's get drunk on our tears
+And God, tell us the reason Youth is wasted on the young
+It's hunting season And the lambs are on the run
+Searching for meaning
+But are we all lost stars
+Trying to light up the dark
+Who are we?
+Just a speck of dust Within the galaxy?
+Woe, is me
+If we're not careful Turns into reality
+But don't you dare
+Let our best memories bring you sorrow
+Yesterday I saw a lion kiss a deer
+Turn the page
+Maybe we'll find a brand new ending
+Where we're dancing in our tears
+And God, tell us the reason Youth is wasted on the young
+It's hunting season And the lambs are on the run
+We're searching for meaning
+But are we all lost stars
+Trying to light up the dark
+I thought I saw you out there crying
+I thought I heard you call my name
+I thought I heard you out there crying
+But just the same And God, give us the reason
+Youth is wasted on the young
+It's hunting season And this lamb is on the run
+Searching for meaning
+But are we all lost stars
+Trying to light up the dark
+I thought I saw you out there crying
+I thought I heard you call my name
+I thought I heard you out there crying
+But are we all lost stars
+Trying to light up the dark
+But are we all lost stars
+Trying to light up the dark&lt;/pre&gt;
+</description>
+				<pubDate>Mon, 01 Sep 2014 00:00:00 +0700</pubDate>
+				<link>/song/2014/09/01/loststar-translate.html</link>
+				<guid isPermaLink="true">/song/2014/09/01/loststar-translate.html</guid>
+			</item>
+		
+			<item>
+				<title>Hello World! Example</title>
+				<description>&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;dbyll&lt;/strong&gt; is brought to you by &lt;strong&gt;&lt;a href=&quot;http://ismaildemirbilek.com&quot;&gt;dbtek&lt;/a&gt;&lt;/strong&gt;. Open sourced under &lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+
+&lt;h3 id=&quot;dbyll-is-on-github&quot;&gt;dbyll is on GitHub&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15902715/imgpost1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;foo&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+				<pubDate>Wed, 27 Aug 2014 00:00:00 +0700</pubDate>
+				<link>/general/setup/demo/2014/08/27/hello-world.html</link>
+				<guid isPermaLink="true">/general/setup/demo/2014/08/27/hello-world.html</guid>
+			</item>
+		
+	</channel>
+</rss>
