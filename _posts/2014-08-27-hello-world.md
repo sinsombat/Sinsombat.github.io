@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hello World! Example
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+categories: [example]
+tags: [jekyll,md]
 fullview: true
 ---
 
@@ -14,7 +14,7 @@ fullview: true
 
 <a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>
 
-<img src="https://dl.dropboxusercontent.com/u/15902715/imgpost1.png" >
+<img src="images/post/2014-08-27-1.png" >
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
