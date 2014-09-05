@@ -7,57 +7,46 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Lost Star</title>
-				<description>&lt;pre&gt;Lost Star
+				<title>HithubPage + Jekyll</title>
+				<description>&lt;h3&gt;githubpage ก็ทำ blog ได้ แค่มี account ของ github&lt;/h3&gt;
 
-Please, don't see 
-Just a boy caught up in dreams And fantasies
-Please, see me
-Reaching out for someone I can't see
-Take my hand Let's see where we wake up tomorrow
-Best laid plans Sometimes are just a one night stand
-I'll be damned Cupid's demanding back it's arrow
-So let's get drunk on our tears
-And God, tell us the reason Youth is wasted on the young
-It's hunting season And the lambs are on the run
-Searching for meaning
-But are we all lost stars
-Trying to light up the dark
-Who are we?
-Just a speck of dust Within the galaxy?
-Woe, is me
-If we're not careful Turns into reality
-But don't you dare
-Let our best memories bring you sorrow
-Yesterday I saw a lion kiss a deer
-Turn the page
-Maybe we'll find a brand new ending
-Where we're dancing in our tears
-And God, tell us the reason Youth is wasted on the young
-It's hunting season And the lambs are on the run
-We're searching for meaning
-But are we all lost stars
-Trying to light up the dark
-I thought I saw you out there crying
-I thought I heard you call my name
-I thought I heard you out there crying
-But just the same And God, give us the reason
-Youth is wasted on the young
-It's hunting season And this lamb is on the run
-Searching for meaning
-But are we all lost stars
-Trying to light up the dark
-I thought I saw you out there crying
-I thought I heard you call my name
-I thought I heard you out there crying
-But are we all lost stars
-Trying to light up the dark
-But are we all lost stars
-Trying to light up the dark&lt;/pre&gt;
+&lt;p&gt;การทำ githubpage หน้าตาที่ออกมาไม่ค่อยต่างจาก blog อื่นหรืออาจจะ หน้าตาแย่กว่าถ้าไม่ชำนาญเรื่องการปรับแต่ง website&lt;/p&gt;
+
+&lt;p&gt;ข้อดี: เหมาะกับพวกอย่างเรา นึกอยากให้โพสไปโผล่วันไหนก็ได้&lt;/p&gt;
+
+&lt;p&gt;ข้อเสีย: ไม่มี (เท่ปะล่ะ)&lt;/p&gt;
+
+&lt;p&gt;1.ขั้นตอนแรกให้เข้าไปสมัคร github account กันก่อน เข้าไปที่ &lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com&quot;&gt;Github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.พอสมัครเสร็จก็ไปที่ +New repository ปุ่มเขียวๆ จะขึ้นหน้านี้ ให้ตั้งชื่อ repository หรือคือชื่อ address เรานั่นแหละ เช่นของผมเป็น Sinsombat.github.io&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/post/2014-09-05-1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ทางที่ดีเข้าไปตาม address ที่เราจะตั้งชื่อก่อนว่ามีคนใช้ไปหรือยังไม่งั้น มันจะ gen blog ไม่ติดแล้วจะงงเหมือนผมตอนแรก 
+เพราะทาง github ไม่ได้เช็คให้ตรงนี้ แค่เช็คใน repo ของเราว่าซื่อซ้ำกับที่มีอยู่แล้วหรือไม่&lt;/p&gt;
+
+&lt;p&gt;ถ้าตรวสอบดีแล้วก็กดปุ่ม create เขียวๆได้เลย&lt;/p&gt;
+
+&lt;p&gt;3.ไปที่ setting แถบขวามือ เป็นรูป ไขควงไฝว้กับประแจ
+เลื่อนลงมา กดตุ่ม Automatic page generator&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/post/2014-09-05-2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4.จะเป็นหน้านี้เลื่อนลงมา ใครมี google analytics ก็ใส่ไป อันอื่นยังไม่ต้องสนใจ กด continue ไป&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/post/2014-09-05-3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;5.เลือกรูปแบบของ blog เบื้องต้นไปก่อนใครอยากแก้ค่อยแก้ทีหลัง พอใจแล้วกเ publish page โลดดด&lt;/p&gt;
+
+&lt;p&gt;6.ทีนี้รอ 10 นาทีเดี๋ยวรู้… เวลาเราจะเข้าไปเช็คก็เข้าไปตาม address ที่ตั้งไว้นั่นแหละ ถ้าไม่ได้ก็โทรไปถาม githubเลยเบอร์อะไรนะจำไม่ได้&lt;/p&gt;
+
+&lt;p&gt;วันนี้พอแค่นี้ก่อนเดี๋ยวมาคุยต่อเรื่อง clone มาแก้ post ต่างๆ และการจำลอง server ที่มี jekyll ในเครื่องเรา จะได้ไม่ต้องpushๆๆรัวๆกัน&lt;/p&gt;
+
+&lt;p&gt;บั๊ย..&lt;/p&gt;
 </description>
-				<pubDate>Mon, 01 Sep 2014 00:00:00 +0700</pubDate>
-				<link>/song/2014/09/01/loststar-translate.html</link>
-				<guid isPermaLink="true">/song/2014/09/01/loststar-translate.html</guid>
+				<pubDate>Fri, 05 Sep 2014 00:00:00 +0700</pubDate>
+				<link>/example/2014/09/05/githubpage1.html</link>
+				<guid isPermaLink="true">/example/2014/09/05/githubpage1.html</guid>
 			</item>
 		
 			<item>
@@ -70,7 +59,7 @@ Trying to light up the dark&lt;/pre&gt;
 
 &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15902715/imgpost1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/post/2014-08-27-1.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
@@ -81,8 +70,8 @@ Trying to light up the dark&lt;/pre&gt;
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
 				<pubDate>Wed, 27 Aug 2014 00:00:00 +0700</pubDate>
-				<link>/general/setup/demo/2014/08/27/hello-world.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2014/08/27/hello-world.html</guid>
+				<link>/example/2014/08/27/hello-world.html</link>
+				<guid isPermaLink="true">/example/2014/08/27/hello-world.html</guid>
 			</item>
 		
 	</channel>
