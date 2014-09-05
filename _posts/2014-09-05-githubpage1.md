@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HithubPage + Jekyll
+title: GithubPage + Jekyll
 categories: [example]
 tags: [jekyll,githubpage]
 fullview: true
